@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": "sofa123",
+      "name": "Washington Suite Sofa",
+      "brand": "ComfortLiving",
+      "category": "Sofas",
+      "price": "799.99",
+      "description": "A luxurious, comfortable sofa with high-density foam cushions, perfect for any modern living space. Available in multiple colors.",
+      "imageFilename": "washington_suite.jpg",
+      "createdAt": "2024-10-15"
+    },
+    {
+      "id": "table456",
+      "name": "Dario round table",
+      "brand": "ElegantHome",
+      "category": "Tables",
+      "price": "499.99",
+      "description": "A sleek, minimalist white round dining table with a sturdy base, ideal for contemporary spaces. Seats up to 4 people.",
+      "imageFilename": "dario_round_table.jpg",
+      "createdAt": "2024-10-20"
+    },
+    {
+      "id": "sofa789",
+      "name": "Humphrey 5 Piece Corner Suite",
+      "brand": "LuxuryLiving",
+      "category": "Sofas",
+      "price": "1299.99",
+      "description": "A stylish 5-piece corner suite with plush cushioning and a durable frame. Perfect for large living areas, offering comfort and elegance.",
+      "imageFilename": "Humphrey_5_Piece_Corner_Suite.jpg",
+      "createdAt": "2024-10-25"
+    },
+    {
+      "id": "sofa101",
+      "name": "Gemona Suite",
+      "brand": "Elegance Interiors",
+      "category": "Sofas",
+      "price": "999.99",
+      "description": "The Gemona Suite offers a chic and modern design with soft, durable fabric and deep cushions for ultimate comfort. Ideal for family living spaces.",
+      "imageFilename": "Gemona_Suite.jpg",
+      "createdAt": "2024-10-28"
+    },
+    {
+      "id": "sofa102",
+      "name": "Kingsley Suite",
+      "brand": "Royal Comfort",
+      "category": "Sofas",
+      "price": "1149.99",
+      "description": "A premium Kingsley Suite designed for luxury and style. Features high-quality upholstery, ergonomic design, and ample seating for a sophisticated look.",
+      "imageFilename": "Kingsley_Suite.jpg",
+      "createdAt": "2024-10-30"
+    },
+    {
+      "id": "sofa103",
+      "name": "Reilly Suite",
+      "brand": "CozyLife",
+      "category": "Sofas",
+      "price": "849.99",
+      "description": "The Reilly Suite combines timeless elegance with practical comfort. Upholstered in a soft fabric, it fits beautifully in any classic or contemporary home.",
+      "imageFilename": "Reilly_Suite.jpg",
+      "createdAt": "2024-11-01"
+    },
+    {
+      "id": "bed101",
+      "name": "Ambassador Bed Frame",
+      "brand": "LuxurySleep",
+      "category": "Sofa",
+      "price": "599.99",
+      "description": "A sleek and elegant bed frame with a sturdy build, designed to provide maximum comfort and style for your bedroom.",
+      "imageFilename": "Ambassador_Bed_Frame.jpg",
+      "createdAt": "2024-10-22"
+    },
+    {
+      "id": "bed102",
+      "name": "Aurora Lift-Up Bed Frame",
+      "brand": "ComfortRest",
+      "category": "Beds",
+      "price": "799.99",
+      "description": "The Aurora Lift-Up Bed Frame features a practical lift-up storage solution, combining convenience with luxury, perfect for maximizing space.",
+      "imageFilename": "Aurora_Lift_Up_Bed_Frame.jpg",
+      "createdAt": "2024-10-25"
+    },
+    {
+      "id": "bed103",
+      "name": "Isabel Lift-Up Bed",
+      "brand": "DreamNest",
+      "category": "Beds",
+      "price": "749.99",
+      "description": "A modern, space-saving bed with a stylish lift-up mechanism, ideal for those looking to optimize their bedroom storage.",
+      "imageFilename": "Isabel_Lift_Up_Bed.jpg",
+      "createdAt": "2024-10-27"
+    },
+    {
+      "id": "bed104",
+      "name": "Oslo Lift-Up Bed Frame",
+      "brand": "EliteComfort",
+      "category": "Beds",
+      "price": "849.99",
+      "description": "The Oslo Lift-Up Bed Frame combines Scandinavian design with practical storage, offering a sleek and functional solution for modern bedrooms.",
+      "imageFilename": "Oslo_Lift_Up_Bed_Frame.jpg",
+      "createdAt": "2024-10-30"
+    },
+    {
+      "id": "table101",
+      "name": "Pembrooke Table and Bench",
+      "brand": "ClassicFurniture",
+      "category": "Tables",
+      "price": "799.99",
+      "description": "A stylish table and bench set made from premium wood, offering a timeless design that fits perfectly in both traditional and modern dining spaces.",
+      "imageFilename": "Pembrooke_Table_and_Bench.jpg",
+      "createdAt": "2024-10-18"
+    },
+    {
+      "id": "table102",
+      "name": "Salcombe Large Extending Table",
+      "brand": "ElegantLiving",
+      "category": "Tables",
+      "price": "999.99",
+      "description": "The Salcombe Large Extending Table offers ample space for gatherings, with an elegant extension mechanism that allows for easy size adjustments.",
+      "imageFilename": "Salcombe_Large_Extending_Table.jpg",
+      "createdAt": "2024-10-22"
+    },
+    {
+      "id": "table103",
+      "name": "X Table",
+      "brand": "ContemporaryDesigns",
+      "category": "Tables",
+      "price": "649.99",
+      "description": "A minimalist X-shaped table designed with a modern touch, perfect for smaller dining areas or as a statement piece in contemporary spaces.",
+      "imageFilename": "X_Table.jpg",
+      "createdAt": "2024-10-25"
+    }
+  ]
+}
